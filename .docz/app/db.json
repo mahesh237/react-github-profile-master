@@ -1,0 +1,14 @@
+{
+  "config": {
+    "title": "React Github Profile",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "0.2.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {}
+}
